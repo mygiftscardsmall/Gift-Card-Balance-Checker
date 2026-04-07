@@ -10,7 +10,7 @@ To use the graphical interface and check your gift card balance instantly, pleas
 
 ## 🌟 About GiftCardMall/MyGift
 
-Managing multiple gift cards can be a hassle. [MyGiftCardsMall](https://mygiftscardsmall.com/) offers a streamlined, secure, and user-friendly web portal to verify your remaining funds before making online or in-store purchases. We prioritize user privacy and data security above all else.
+Managing multiple gift cards can be a hassle. [GiftCardMall/MyGift](https://mygiftscardsmall.com/) offers a streamlined, secure, and user-friendly web portal to verify your remaining funds before making online or in-store purchases. We prioritize user privacy and data security above all else.
 
 ### Core Features:
 * **Instant Verification:** Get your balance in seconds at [mygiftscardsmall.com](https://mygiftscardsmall.com/).
@@ -21,7 +21,7 @@ Managing multiple gift cards can be a hassle. [MyGiftCardsMall](https://mygiftsc
 
 The easiest way to check your balance is via our official web portal. 
 
-1. Go to the [Check Balance Page](https://mygiftscardsmall.com/check-balance).
+1. Go to the [Check Balance ](https://mygiftscardsmall.com/).
 2. Enter your Card Number.
 3. Enter your Security Code (PIN).
 4. Click "Check Balance".
